@@ -1,0 +1,8 @@
+https://github.com/amitvermaa93/jenkins-git-integration.git
+
+#commands
+
+mvn compile
+mvn test
+mvn package
+mvn install
